@@ -1,11 +1,5 @@
 # Group Assignment from 新建文件夹
 
-### Assignment requirements
-1. 12-16 Questions
-2. objective questions most
-3. challenging questions
-4. according to the latest lecture
-
 ---
 ## Questions
 1. (Just For Warming Up (o゜▽゜)o☆)  
