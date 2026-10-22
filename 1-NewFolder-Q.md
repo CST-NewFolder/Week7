@@ -59,4 +59,6 @@ or even directly from other companies' AI models' output. What will this lead to
 **If everyone has an AI that only nodded along, what would happen to social consensus? Would users
 be willing to use it?** [Subjective]
 
-11.
+11. Scaling law establishes a predictable correlation between model resources and test performance. Why is this empirical scaling trend not a fundamental law of intelligence itself? [Objective]
+
+12.LLMs can imitate reasoning traces and produce step‑by‑step arguments. What core distinction separates this simulated chain‑of‑thought output from genuine reasoning, according to the conceptual framework introduced in the lecture? [Objective] 
