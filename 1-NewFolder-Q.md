@@ -9,7 +9,7 @@
 ---
 ## Questions
 1. (Just For Warming Up (o゜▽゜)o☆)  
-**Was Turing a femboy/transgirl?** [Definitely Objective]
+**Was Turing a femboy/transgirl?** [Definitely Objective, answer is fixed]
 
 2. You are a human (of course you are). Now the AI is the judge/interrogator. You need to prove that 
 you are not a machine (maybe through Google Captchas for example).  
@@ -68,3 +68,8 @@ be willing to use it?** [Subjective]
 
 13. **As more and more people are using LLMs for self-study,will LLM enter the school and replace 
 teachers?** [Subjective]
+
+14. According to P.70 of the PowerPoint, as for the ethic, its function, for feasible solution, for
+dream, would both be the question we should think deeply.  
+**So, could 'ethics' serve as a technical solution? What are the fundamental difficulties regarding
+this topic?** [Objective]
