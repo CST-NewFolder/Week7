@@ -61,4 +61,6 @@ be willing to use it?** [Subjective]
 
 11. Scaling law establishes a predictable correlation between model resources and test performance. Why is this empirical scaling trend not a fundamental law of intelligence itself? [Objective]
 
-12. LLMs can imitate reasoning traces and produce step‑by‑step arguments. What core distinction separates this simulated chain‑of‑thought output from genuine reasoning, according to the conceptual framework introduced in the lecture? [Objective] 
+12. LLMs can imitate reasoning traces and produce step‑by‑step arguments. What core distinction separates this simulated chain‑of‑thought output from genuine reasoning, according to the conceptual framework introduced in the lecture? [Objective]
+
+13. ## As more and more people are using LLMs for self-study,will LLM enter the school and replace teachers?## [Subjective]
