@@ -9,7 +9,7 @@
 ---
 ## Questions
 1. (Just For Warming Up (o゜▽゜)o☆)  
-**Was Turing a femboy/transgirl?** [Objective]
+**Was Turing a femboy/transgirl?** [Definitely Objective]
 
 2. You are a human (of course you are). Now the AI is the judge/interrogator. You need to prove that 
 you are not a machine (maybe through Google Captchas for example).  
