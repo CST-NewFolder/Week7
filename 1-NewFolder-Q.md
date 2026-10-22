@@ -52,7 +52,8 @@ but anyway)
 **If AI-generated content increasingly flows back onto the internet, the next generation of models/
 models from other companies will be feeding on the previous generation's 'waste' from the Internet, 
 or even directly from other companies' AI models' output. What will this lead to?** 
-[Objective] (Honestly, the answer could be only one word)
+[Objective]  
+(Honestly, the best answer could be only one word)
 
 10. From the PowerPoint, LLMs mostly flatter the questioner's attitude.  
 **If everyone has an AI that only nodded along, what would happen to social consensus? Would users
