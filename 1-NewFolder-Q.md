@@ -1,6 +1,5 @@
 # Group Assignment from 新建文件夹
 
----
 ## Questions
 1. (Just For Warming Up (o゜▽゜)o☆)  
 **Was Turing a femboy/transgirl?** [Definitely Objective, answer is fixed]
