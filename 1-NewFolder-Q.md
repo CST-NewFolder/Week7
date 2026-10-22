@@ -63,4 +63,4 @@ be willing to use it?** [Subjective]
 
 12. LLMs can imitate reasoning traces and produce step‑by‑step arguments. What core distinction separates this simulated chain‑of‑thought output from genuine reasoning, according to the conceptual framework introduced in the lecture? [Objective]
 
-13. ## As more and more people are using LLMs for self-study,will LLM enter the school and replace teachers?## [Subjective]
+13. ** As more and more people are using LLMs for self-study,will LLM enter the school and replace teachers?** [Subjective]
